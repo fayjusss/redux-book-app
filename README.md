@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# Redux Book App
+A project to track what I've learned so far in React+Redux. Functionality: Select books and get info
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+### Covers following topic
 
-### Getting Started
+* Redux
+* Containers
+* Reducers
+* Actions
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+#### Tutorial
+Modern React with Redux (Udemy Course)
